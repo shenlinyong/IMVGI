@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## Usage
 The following sections explain how to use each script to perform various analyses. Each script corresponds to a different step in the analysis process:
 
-### 1. Variant Calling
+### 1. Call Variant
 Run the following command to perform variant calling. This script identifies variants in the genome.
 ```bash
 python scripts/variant_calling.py
