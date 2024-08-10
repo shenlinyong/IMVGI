@@ -74,8 +74,3 @@ Contributions, issues, and feature requests are welcome! Feel free to submit iss
 
 ## License
 This project is licensed under the MIT License, which allows users to freely use, modify, and distribute the code.
-```bash
-This version includes detailed comments that explain the purpose of each section, script, and command, enhancing clarity for users.
-```
-
-
